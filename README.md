@@ -1,2 +1,2 @@
 # lintcode
-Better late than never!
+Better late than never!!
